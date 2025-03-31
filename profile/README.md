@@ -1,9 +1,12 @@
 ## Hi there 👋
-RSA x CODE + XAOEX THINGS (CONGLOMORATES):
+XAOEX THINGS (CONGLOMORATES):
 
 https://gits-15.sys.kth.se/xaoex
 
 https://gits-15.sys.kth.se/rsaxcode
+
+etc
+
 
 <!--
 
