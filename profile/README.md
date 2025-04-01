@@ -1,5 +1,7 @@
 ## Hi there 👋
-XAOEX THINGS (CONGLOMORATES):
+XAOEX THINGS:
+
+https://linktr.ee/xaoex
 
 https://gits-15.sys.kth.se/xaoex
 
